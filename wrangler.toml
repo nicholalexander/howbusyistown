@@ -1,0 +1,6 @@
+name = "howbusyistown"
+type = "javascript"
+account_id = "bdc000713d1bec7e678fd3abb5b52d57"
+workers_dev = true
+route = ""
+zone_id = "7f00eb1da302ada7a34c0917653e4ded"
